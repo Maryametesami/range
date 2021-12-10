@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-[ScreenShot-descktop](https://maryametesami.github.io/range/images/FireShot-Capture-001.jpg)
-[ScreenShot-descktop](https://maryametesami.github.io/range/images/FireShot-Capture-004.jpg)
+[ScreenShot-descktop](https://github.com/Maryametesami/range/blob/main/images/FireShot-Capture-001.png)
+[ScreenShot-descktop](https://github.com/Maryametesami/range/blob/main/images/FireShot-Capture-004.png)
 
 
 ### Links
