@@ -22,14 +22,14 @@ Users should be able to:
 
 ### Screenshot
 
-[ScreenShot-descktop](images/FireShot-Capture-001.jpg)
-[ScreenShot-descktop](images/FireShot-Capture-004.jpg)
+[ScreenShot-descktop](https://maryametesami.github.io/range/images/FireShot-Capture-001.jpg)
+[ScreenShot-descktop](https://maryametesami.github.io/range/images/FireShot-Capture-004.jpg)
 
 
 ### Links
 
-- Solution URL:(https://github.com/Maryametesami/range)
-- Live Site URL:  https://maryametesami.github.io/range/)
+- [Solution URL](https://github.com/Maryametesami/range)
+- [Live Site URL](https://maryametesami.github.io/range/)
 
 ## My process
 
