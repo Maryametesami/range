@@ -28,8 +28,10 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/Maryametesami/range)
-- [Live Site URL](https://maryametesami.github.io/range/)
+- [Solution URL]
+https://github.com/Maryametesami/range
+- [Live Site URL]
+https://maryametesami.github.io/range/
 
 ## My process
 
